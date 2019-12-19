@@ -1,5 +1,8 @@
 import org.testng.annotations.*;
 
+/**
+ * add commentgit
+ */
 public class test02 {
     @BeforeSuite
     public void beforeSuite() {
