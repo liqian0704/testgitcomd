@@ -5,6 +5,8 @@ public class test01 {
     public void beforeSuite() {
         System.out.println("develop02" +
                 "更新test01");
+        System.out.println("develop02" +
+                "第二次更新test01");
         System.out.println(this.getClass().getName() + " beforeSuite");
     }
 
