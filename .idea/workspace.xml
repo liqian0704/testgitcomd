@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="80044384-f813-4ee0-8450-84337b411d96" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcmd01/src/main/java/test01.java" beforeDir="false" afterPath="$PROJECT_DIR$/testcmd01/src/main/java/test01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,17 +181,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -234,6 +222,7 @@
       <workItem from="1622039386389" duration="2045000" />
       <workItem from="1622351735789" duration="995000" />
       <workItem from="1622358323324" duration="336000" />
+      <workItem from="1622361335685" duration="378000" />
     </task>
     <servers />
   </component>
