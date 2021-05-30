@@ -1,2 +1,2 @@
-public class test05 git {
+public class test05 {
 }
