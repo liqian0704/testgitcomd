@@ -3,6 +3,8 @@ import org.testng.annotations.*;
 public class test01 {
     @BeforeSuite
     public void beforeSuite() {
+        System.out.println("develop02" +
+                "¸üÐÂtest01");
         System.out.println(this.getClass().getName() + " beforeSuite");
     }
 
